@@ -42,8 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ribeiro-rodrigo&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-rodrigo&layout=compact&theme=dark&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ribeiro-rodrigo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ribeiro-rodrigo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
