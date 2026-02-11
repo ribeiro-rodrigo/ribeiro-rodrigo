@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I’m [YOUR NAME]
 
-<!--
-**ribeiro-rodrigo/ribeiro-rodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/profile-1.jpeg" alt="Software Architect" width="45%" />
+  <img src="assets/profile-2.jpeg" alt="SRE / Cloud Engineer" width="45%" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+💻 **Software Architect | SRE | Cloud & DevOps Enthusiast**  
+☁️ Specialized in scalable, cloud-native architectures and automation  
+🧠 Passionate about software engineering, reliability, and best practices  
+📦 Always focused on simplicity, performance, and resilience
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+- AWS  
+- Kubernetes  
+- Argo CD  
+- CI/CD  
+- Infrastructure as Code (IaC)
+
+### 👨‍💻 Languages
+- Python 🐍  
+- Go (Golang)  
+- Rust 🦀  
+
+### 🧰 SRE & Observability
+- Monitoring & Alerting  
+- High Availability  
+- Resilience Engineering  
+- Operational Automation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/ribeiro-rodrigo)
+- 📫 Email: ribeiro.rodrigo1989@gmail.com
+
+---
+
+⭐ _“Build systems that scale. Operate systems that last.”_
