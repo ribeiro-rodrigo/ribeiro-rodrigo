@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [YOUR NAME]
+# 👋 Hi, I’m Rodrigo Ribeiro
 
 <p align="center">
   <img src="assets/profile-1.jpeg" alt="Software Architect" width="45%" />
@@ -28,6 +28,7 @@
 ### 👨‍💻 Languages
 - Python 🐍  
 - Go (Golang)  
+- Javascript
 - Rust 🦀  
 
 ### 🧰 SRE & Observability
@@ -41,15 +42,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ribeiro-rodrigo&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-rodrigo&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🌐 Let’s Connect
 
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/ribeiro-rodrigo)
+- 💼 LinkedIn: [ribeiro-rodrigo](https://linkedin.com/in/ribeiro-rodrigo)
 - 📫 Email: ribeiro.rodrigo1989@gmail.com
 
 ---
