@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ribeiro-rodrigo/ribeiro-rodrigo/main/assets/banner.jpeg" alt="Rodrigo Ribeiro - Software Architect | Platform Engineer | AI Cloud" width="100%" />
+  <img src="https://raw.githubusercontent.com/ribeiro-rodrigo/ribeiro-rodrigo/main/assets/banner.png" alt="Rodrigo Ribeiro - Software Architect | Platform Engineer | AI Cloud" width="100%" />
 </p>
 
 
