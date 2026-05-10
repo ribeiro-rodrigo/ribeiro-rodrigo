@@ -64,6 +64,7 @@ Observability • High Availability • Fault Tolerance • Incident Response
 ## 🌐 Let’s Connect
 
 - 💼 LinkedIn: [ribeiro-rodrigo](https://linkedin.com/in/ribeiro-rodrigo)
+- 💬 Discord: [@ribeiro_rodrigo](https://discord.com/users/1106531817303052288)
 - 📫 Email: ribeiro.rodrigo1989@gmail.com
 
 ---
